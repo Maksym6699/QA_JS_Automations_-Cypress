@@ -1,0 +1,16 @@
+{
+  "name": "home_work_cypress_2",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "npx cypress run --spec \"cypress/e2e/header_footer.cy.js\"",
+    "cypress:open": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^15.14.2"
+  }
+}
