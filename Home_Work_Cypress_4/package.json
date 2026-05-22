@@ -1,0 +1,17 @@
+{
+  "name": "qa-js-automations-cypress",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test:qauto": "npx cypress run --config-file cypress.config.qauto.js",
+    "test:qauto2": "npx cypress run --config-file cypress.config.qauto2.js",
+    "test:all": "npm run test:qauto && npm run test:qauto2",
+    "register:qauto": "node scripts/register-user.js qauto",
+    "register:qauto2": "node scripts/register-user.js qauto2",
+    "register:all": "npm run register:qauto && npm run register:qauto2"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.0",
+    "mochawesome": "^7.1.3"
+  }
+}
