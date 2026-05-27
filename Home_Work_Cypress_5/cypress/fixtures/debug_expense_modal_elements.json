@@ -1,0 +1,11 @@
+[
+  "<button _ngcontent-lyi-c72=\"\" type=\"button\" aria-label=\"Close\" class=\"close\">",
+  "<select _ngcontent-lyi-c71=\"\" name=\"carId\" id=\"addExpenseCar\" formcontrolname=\"carId\" class=\"form-control ng-untouched ng-pristine\" disabled=\"\">",
+  "<input _ngcontent-lyi-c71=\"\" type=\"text\" name=\"reportedAt\" id=\"addExpenseDate\" formcontrolname=\"reportedAt\" ngbdatepicker=\"\" placement=\"dd.mm.yyyy\" class=\"form-control ng-untouched ng-pristine ng-valid\">",
+  "<button _ngcontent-lyi-c71=\"\" type=\"button\" class=\"btn date-picker-toggle\">",
+  "<input _ngcontent-lyi-c71=\"\" type=\"number\" name=\"mileage\" id=\"addExpenseMileage\" formcontrolname=\"mileage\" class=\"form-control ng-untouched ng-pristine ng-invalid\">",
+  "<input _ngcontent-lyi-c71=\"\" type=\"number\" name=\"liters\" id=\"addExpenseLiters\" formcontrolname=\"liters\" class=\"form-control ng-untouched ng-pristine ng-invalid\">",
+  "<input _ngcontent-lyi-c71=\"\" type=\"number\" name=\"totalCost\" id=\"addExpenseTotalCost\" formcontrolname=\"totalCost\" class=\"form-control ng-untouched ng-pristine ng-invalid\">",
+  "<button _ngcontent-lyi-c72=\"\" type=\"button\" class=\"btn btn-secondary\">",
+  "<button _ngcontent-lyi-c72=\"\" type=\"button\" class=\"btn btn-primary\" disabled=\"\">"
+]

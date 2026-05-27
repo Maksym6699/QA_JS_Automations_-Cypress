@@ -1,0 +1,11 @@
+{
+  "name": "home-work-cypress-5",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^15.15.0"
+  }
+}
