@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "id": 522539,
+      "carBrandId": 1,
+      "carModelId": 2,
+      "initialMileage": 12000,
+      "updatedMileageAt": "2026-05-27T09:22:56.000Z",
+      "carCreatedAt": "2026-05-27T09:22:56.000Z",
+      "mileage": 12000,
+      "brand": "Audi",
+      "model": "R8",
+      "logo": "audi.png"
+    }
+  ]
+}
